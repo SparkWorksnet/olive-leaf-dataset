@@ -13,7 +13,7 @@ Created with the support of the [IoT-Ngin 2nd Open Call](https://iot-ngin.eu/)
   
 + Branch images
 
-  Contains the branch images of olive trees for the second stage of our process 
+  Contains the branch images of olive trees in neutral background for the second stage of our process 
   
    <img src="https://github.com/SparkWorksnet/olive-leaf-dataset/blob/master/branch/03.jpg" alt="image 1" style="width:300px;">, <img src="https://github.com/SparkWorksnet/olive-leaf-dataset/blob/master/branch/304.jpg" alt="image 2" style="width:300px;">
 
